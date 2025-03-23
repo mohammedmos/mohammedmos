@@ -91,7 +91,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammedmos&show_icons=true&count_private=true&hide_border=true" align="center" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammedmos&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>  
 
